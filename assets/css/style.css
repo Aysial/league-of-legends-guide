@@ -202,3 +202,20 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+
+/* sign up form */
+
+form {
+    display: block;
+    margin-top: 2rem;
+}
+
+#sign-up1 {
+    height: 500px;
+    width: 100%;
+    margin-bottom: 5%;
+    margin-right: 20px;
+    font-size: 160%;
+    background-color: cadetblue;
+    color: brown;
+}
