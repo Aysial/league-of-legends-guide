@@ -164,3 +164,18 @@ hr {
 .right-about-heading p {
     text-align: right;
 }
+
+#welcome {
+    text-align: center;
+    margin: 20px;
+    font-size: 280%;
+}
+
+#container {
+    width: 500px;
+    height: 300px;
+    padding: 30px;
+    padding-right: 40px;
+    margin: 0 auto;
+
+}
